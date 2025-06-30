@@ -1,9 +1,9 @@
-#* 📌 Project Name: Organizo Backend
+## 📌 Project Name: Organizo 
 
-#* 📄 Description:
+## 📄 Description:
 This is the **backend server** for the `Organizo` event management web application. It is responsible for handling all server-side logic such as creating, updating, deleting, and retrieving events from a MongoDB database. It supports full CRUD operations and attendee tracking, and it connects seamlessly with the frontend built in React.js.
 
-#* 🚀 Functionality:
+## 🚀 Functionality:
 - Create and store events in MongoDB
 - Fetch all events or user-specific events
 - Update event details using PATCH
